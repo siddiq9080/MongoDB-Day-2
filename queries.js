@@ -8,7 +8,6 @@
 
 //1: Find all the topics and tasks which are thought in the month of October
 
-
 db.task.find({ date: { $regex: "2023-10" } }).toArray();
 
 //2: Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
