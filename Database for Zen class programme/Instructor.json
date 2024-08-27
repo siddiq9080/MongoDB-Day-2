@@ -1,0 +1,8 @@
+{
+  "_id": ObjectId("..."),
+  "name": "instructor name",
+  "email": "instructor email",
+  "bio": "Bio about Experience or something here",
+  "classes": [ObjectId("...")],     // References to Classes they teach
+  "contactNumber": "+1234567890"
+}

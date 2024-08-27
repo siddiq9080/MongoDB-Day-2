@@ -1,0 +1,137 @@
+[
+  {
+    "date": "2020-10-10",
+    "userEmail": "sam@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-11",
+    "userEmail": "jane@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-12",
+    "userEmail": "alex@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-13",
+    "userEmail": "emma@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-14",
+    "userEmail": "mike@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-15",
+    "userEmail": "lisa@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-16",
+    "userEmail": "john@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-17",
+    "userEmail": "sara@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-18",
+    "userEmail": "dan@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-19",
+    "userEmail": "nina@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-20",
+    "userEmail": "tom@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-21",
+    "userEmail": "julia@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-22",
+    "userEmail": "peter@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-23",
+    "userEmail": "alice@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-24",
+    "userEmail": "robert@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-25",
+    "userEmail": "laura@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-26",
+    "userEmail": "chris@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-27",
+    "userEmail": "kelly@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-28",
+    "userEmail": "james@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-29",
+    "userEmail": "olivia@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-10-30",
+    "userEmail": "michael@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-10-31",
+    "userEmail": "emily@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-11-01",
+    "userEmail": "ben@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-11-02",
+    "userEmail": "sophie@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-11-03",
+    "userEmail": "will@example.com",
+    "isPresent": false
+  },
+  {
+    "date": "2020-11-04",
+    "userEmail": "mia@example.com",
+    "isPresent": true
+  },
+  {
+    "date": "2020-11-05",
+    "userEmail": "jack@example.com",
+    "isPresent": false
+  }
+]

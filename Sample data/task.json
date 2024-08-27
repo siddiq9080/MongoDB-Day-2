@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Day 1 HTML",
+    "dueDate": "2023-09-09",
+    "date": "2023-09-02",
+    "userId": 1,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 2 CSS",
+    "dueDate": "2023-09-10",
+    "date": "2023-09-03",
+    "userId": 2,
+    "isCompleted": true,
+    "submittedDate": "2023-09-08"
+  },
+  {
+    "name": "Day 3 JavaScript",
+    "dueDate": "2023-09-12",
+    "date": "2023-09-04",
+    "userId": 3,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 4 Responsive Design",
+    "dueDate": "2023-10-15",
+    "date": "2023-10-05",
+    "userId": 4,
+    "isCompleted": true,
+    "submittedDate": "2023-09-13"
+  },
+  {
+    "name": "Day 5 Flexbox",
+    "dueDate": "2023-10-18",
+    "date": "2023-10-06",
+    "userId": 5,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 6 Grid Layout",
+    "dueDate": "2023-10-20",
+    "date": "2023-10-07",
+    "userId": 6,
+    "isCompleted": true,
+    "submittedDate": "2023-10-19"
+  },
+  {
+    "name": "Day 7 JavaScript Functions",
+    "dueDate": "2023-10-22",
+    "date": "2023-10-08",
+    "userId": 7,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 8 DOM Manipulation",
+    "dueDate": "2023-10-25",
+    "date": "2023-10-09",
+    "userId": 8,
+    "isCompleted": true,
+    "submittedDate": "2023-09-24"
+  },
+  {
+    "name": "Day 9 AJAX",
+    "dueDate": "2023-10-28",
+    "date": "2023-10-10",
+    "userId": 9,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 10 APIs",
+    "dueDate": "2023-10-01",
+    "date": "2023-10-11",
+    "userId": 10,
+    "isCompleted": true,
+    "submittedDate": "2023-09-30"
+  },
+  {
+    "name": "Day 11 Web Storage",
+    "dueDate": "2023-10-04",
+    "date": "2023-10-12",
+    "userId": 11,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 12 JavaScript ES6",
+    "dueDate": "2023-10-07",
+    "date": "2023-10-13",
+    "userId": 12,
+    "isCompleted": true,
+    "submittedDate": "2023-10-02"
+  },
+  {
+    "name": "Day 13 Testing",
+    "dueDate": "2023-10-10",
+    "date": "2023-10-14",
+    "userId": 13,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 14 Deployment",
+    "dueDate": "2023-10-13",
+    "date": "2023-10-15",
+    "userId": 14,
+    "isCompleted": true,
+    "submittedDate": "2023-10-08"
+  },
+  {
+    "name": "Day 15 Debugging",
+    "dueDate": "2023-10-16",
+    "date": "2023-10-16",
+    "userId": 15,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 16 Performance Optimization",
+    "dueDate": "2023-10-19",
+    "date": "2023-10-17",
+    "userId": 16,
+    "isCompleted": true,
+    "submittedDate": "2023-10-15"
+  },
+  {
+    "name": "Day 17 Security",
+    "dueDate": "2023-10-22",
+    "date": "2023-10-18",
+    "userId": 17,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 18 Accessibility",
+    "dueDate": "2023-11-25",
+    "date": "2023-11-19",
+    "userId": 18,
+    "isCompleted": true,
+    "submittedDate": "2023-10-20"
+  },
+  {
+    "name": "Day 19 SEO Basics",
+    "dueDate": "2023-11-28",
+    "date": "2023-11-20",
+    "userId": 19,
+    "isCompleted": false,
+    "submittedDate": ""
+  },
+  {
+    "name": "Day 20 Final Project",
+    "dueDate": "2023-11-05",
+    "date": "2023-11-21",
+    "userId": 20,
+    "isCompleted": true,
+    "submittedDate": "2023-11-01"
+  }
+]

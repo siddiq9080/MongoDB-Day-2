@@ -1,0 +1,33 @@
+ 
+ 
+ ObjectId is a special type of identifier used as a primary key for documents. It is a 12-byte value that is unique across different documents in a collection.
+
+
+
+Classes: className, instructorId
+Instructors: name, email
+Students: email, enrolledClasses
+Sessions: classId, sessionDate
+Attendance: sessionId, studentId
+Assignments: classId, dueDate
+
+
+Relationships : 
+
+1.Classes have a reference to Instructors and Sessions.
+2.Instructors are linked to Classes.
+3.Students are linked to Classes.
+4.Sessions are linked to Classes and Instructors.
+5.Attendance tracks which Students attended which Sessions.
+6.Assignments are associated with Classes and can track Submissions.
+7.Feedback is linked to Sessions and Students.
+
+Relationships :
+
+1.Users and Courses: Linked via instructorId in Courses.
+2.Courses and Sessions: Linked via courseId in Sessions.
+3.Users and Enrollments: Linked via userId in Enrollments.
+4.Courses and Enrollments: Linked via courseId in Enrollments.
+5.Users and Feedback: Linked via userId in Feedback.
+6.Courses and Feedback: Linked via courseId in Feedback.
+7.Sessions and Feedback: Optional link via sessionId in Feedbac

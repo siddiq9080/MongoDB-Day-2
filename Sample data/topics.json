@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Day 1: HTML",
+    "date": "2023-09-23",
+    "mentor": "sanjay@example.com"
+  },
+  {
+    "title": "Day 2: CSS Basics",
+    "date": "2023-09-25",
+    "mentor": "meera@example.com"
+  },
+  {
+    "title": "Day 3: Flexbox",
+    "date": "2023-09-27",
+    "mentor": "amit@example.com"
+  },
+  {
+    "title": "Day 4: Grid Layout",
+    "date": "2023-09-29",
+    "mentor": "neha@example.com"
+  },
+  {
+    "title": "Day 5: JavaScript Basics",
+    "date": "2023-10-06",
+    "mentor": "sanjay@example.com"
+  },
+  {
+    "title": "Day 6: Functions",
+    "date": "2023-10-07",
+    "mentor": "rohit@example.com"
+  },
+  {
+    "title": "Day 7: DOM Manipulation",
+    "date": "2023-10-08",
+    "mentor": "anita@example.com"
+  },
+  {
+    "title": "Day 8: AJAX",
+    "date": "2023-10-09",
+    "mentor": "sanjay@example.com"
+  },
+  {
+    "title": "Day 9: Fetch API",
+    "date": "2023-10-10",
+    "mentor": "divya@example.com"
+  },
+  {
+    "title": "Day 10: ES6 Features",
+    "date": "2023-10-11",
+    "mentor": "amit@example.com"
+  },
+  {
+    "title": "Day 11: Web Storage",
+    "date": "2023-10-12",
+    "mentor": "neha@example.com"
+  },
+  {
+    "title": "Day 12: Error Handling",
+    "date": "2023-10-13",
+    "mentor": "sanjay@example.com"
+  },
+  {
+    "title": "Day 13: Debugging",
+    "date": "2023-10-14",
+    "mentor": "rohit@example.com"
+  },
+  {
+    "title": "Day 14: Security Basics",
+    "date": "2023-10-15",
+    "mentor": "anita@example.com"
+  },
+  {
+    "title": "Day 15: Accessibility",
+    "date": "2023-10-16",
+    "mentor": "divya@example.com"
+  },
+  {
+    "title": "Day 16: Responsive Design",
+    "date": "2023-10-17",
+    "mentor": "sanjay@example.com"
+  },
+  {
+    "title": "Day 17: Performance Optimization",
+    "date": "2023-11-01",
+    "mentor": "meera@example.com"
+  },
+  {
+    "title": "Day 18: Testing",
+    "date": "2023-11-02",
+    "mentor": "amit@example.com"
+  },
+  {
+    "title": "Day 19: Deployment",
+    "date": "2023-11-03",
+    "mentor": "neha@example.com"
+  },
+  {
+    "title": "Day 20: Final Project",
+    "date": "2023-11-04",
+    "mentor": "sanjay@example.com"
+  }
+]

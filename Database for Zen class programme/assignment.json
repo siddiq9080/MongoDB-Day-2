@@ -1,0 +1,8 @@
+{
+  "_id": ObjectId("..."),
+  "classId": ObjectId("..."), // Reference to Class
+  "title": "Codekata Exercise",
+  "description": "How to solve CodeKata problems",
+  "dueDate": "2024-10-22",
+  "submissions": [ObjectId("...")] // References to Submission documents
+}

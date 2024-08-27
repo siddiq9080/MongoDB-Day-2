@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Sanjay",
+    "email": "sanjay@example.com",
+    "courses": ["MERN", "MEAN"],
+    "mentees": 25
+  },
+  {
+    "name": "Manikandan",
+    "email": "mani@example.com",
+    "courses": ["MERN", "MEAN"],
+    "mentees": 10
+  },
+  {
+    "name": "Aisha",
+    "email": "aisha@example.com",
+    "courses": ["Django", "Flask"],
+    "mentees": 15
+  },
+  {
+    "name": "Ravi",
+    "email": "ravi@example.com",
+    "courses": ["Python", "Data Science"],
+    "mentees": 20
+  },
+  {
+    "name": "Neha",
+    "email": "neha@example.com",
+    "courses": ["React", "Node.js"],
+    "mentees": 18
+  },
+  {
+    "name": "Amit",
+    "email": "amit@example.com",
+    "courses": ["Java", "Spring Boot"],
+    "mentees": 22
+  },
+  {
+    "name": "Priya",
+    "email": "priya@example.com",
+    "courses": ["Angular", "Vue.js"],
+    "mentees": 30
+  },
+  {
+    "name": "Arjun",
+    "email": "arjun@example.com",
+    "courses": ["Ruby on Rails", "React"],
+    "mentees": 12
+  },
+  {
+    "name": "Sita",
+    "email": "sita@example.com",
+    "courses": ["Swift", "iOS Development"],
+    "mentees": 28
+  },
+  {
+    "name": "Vikram",
+    "email": "vikram@example.com",
+    "courses": ["Kotlin", "Android Development"],
+    "mentees": 8
+  },
+  {
+    "name": "Divya",
+    "email": "divya@example.com",
+    "courses": ["JavaScript", "TypeScript"],
+    "mentees": 17
+  },
+  {
+    "name": "Anil",
+    "email": "anil@example.com",
+    "courses": ["PHP", "Laravel"],
+    "mentees": 11
+  },
+  {
+    "name": "Kavita",
+    "email": "kavita@example.com",
+    "courses": ["C#", ".NET"],
+    "mentees": 14
+  },
+  {
+    "name": "Rajesh",
+    "email": "rajesh@example.com",
+    "courses": ["C++", "Embedded Systems"],
+    "mentees": 19
+  },
+  {
+    "name": "Geeta",
+    "email": "geeta@example.com",
+    "courses": ["Machine Learning", "AI"],
+    "mentees": 21
+  },
+  {
+    "name": "Suraj",
+    "email": "suraj@example.com",
+    "courses": ["Blockchain", "Cryptocurrency"],
+    "mentees": 13
+  },
+  {
+    "name": "Ritika",
+    "email": "ritika@example.com",
+    "courses": ["DevOps", "Cloud Computing"],
+    "mentees": 16
+  },
+  {
+    "name": "Tarun",
+    "email": "tarun@example.com",
+    "courses": ["Game Development", "Unity"],
+    "mentees": 9
+  },
+  {
+    "name": "Meera",
+    "email": "meera@example.com",
+    "courses": ["SEO", "Digital Marketing"],
+    "mentees": 26
+  },
+  {
+    "name": "Shyam",
+    "email": "shyam@example.com",
+    "courses": ["Web Design", "UX/UI"],
+    "mentees": 23
+  }
+]

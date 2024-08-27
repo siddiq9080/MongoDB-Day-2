@@ -1,0 +1,7 @@
+{
+  "_id": ObjectId("..."),
+  "sessionId": ObjectId("..."), // Reference to Session
+  "studentId": ObjectId("..."), // Reference to Student
+  "date": "2024-10-22",
+  "isPresent": true
+}

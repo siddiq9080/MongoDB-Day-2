@@ -1,0 +1,8 @@
+{
+  "_id": ObjectId("..."),
+  "classId": ObjectId("..."), // Reference to the Class
+  "sessionDate": ISODate("2024-09-01T10:00:00Z"),
+  "sessionTopic": "Introduction to JS",
+  "instructorId": ObjectId("..."), // Reference to Instructor
+  "attendance": [ObjectId("..."), ObjectId("...")] // References to Attendance documents
+}

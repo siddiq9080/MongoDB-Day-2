@@ -1,0 +1,10 @@
+{
+  "_id": ObjectId("..."),
+  "name": "student Name",
+  "email": "student email",
+  "enrolledClasses": [ObjectId("..."), ObjectId("...")], // References to Classes
+  "contactNumber": "+0987654321",
+ "admissionDate":"2024-09-12",
+ "joinDate":"2023-10-23"
+
+} 
